@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7d9Blk2un98w/ctEHrbxE2t2J1W/IkLWiTeFgddsDkSdlsKoVMqpkzXg9j9eY00tFyug3fVVfw4fUBWRjPE6BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FIRAT\\Desktop\\Messenger Projesi\\TCPClient\\TCPClient\\TCPClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FIRAT\\.nuget\\packages\\supersimpletcp\\2.6.0.8\\supersimpletcp.2.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
